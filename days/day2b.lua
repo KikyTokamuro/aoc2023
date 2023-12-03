@@ -4,12 +4,6 @@ local utils = require("libs.utils")
 
 local inputData = "days/day2.input"
 
-local maxColors = {
-  red   = 12,
-  green = 13,
-  blue  = 14
-}
-
 return function()
   local result = 0
   
